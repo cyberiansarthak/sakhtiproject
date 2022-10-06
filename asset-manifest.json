@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sakhtiproject/static/css/main.3ad2cd26.css",
+    "main.js": "/sakhtiproject/static/js/main.38ab96c0.js",
+    "static/js/787.ee9aa98e.chunk.js": "/sakhtiproject/static/js/787.ee9aa98e.chunk.js",
+    "index.html": "/sakhtiproject/index.html",
+    "main.3ad2cd26.css.map": "/sakhtiproject/static/css/main.3ad2cd26.css.map",
+    "main.38ab96c0.js.map": "/sakhtiproject/static/js/main.38ab96c0.js.map",
+    "787.ee9aa98e.chunk.js.map": "/sakhtiproject/static/js/787.ee9aa98e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad2cd26.css",
+    "static/js/main.38ab96c0.js"
+  ]
+}
