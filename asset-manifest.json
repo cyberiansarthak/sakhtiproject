@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sakhtiproject/static/css/main.439f5bf4.css",
-    "main.js": "/sakhtiproject/static/js/main.1c45daca.js",
+    "main.js": "/sakhtiproject/static/js/main.ba644d4b.js",
     "static/js/787.ee9aa98e.chunk.js": "/sakhtiproject/static/js/787.ee9aa98e.chunk.js",
     "index.html": "/sakhtiproject/index.html",
     "main.439f5bf4.css.map": "/sakhtiproject/static/css/main.439f5bf4.css.map",
-    "main.1c45daca.js.map": "/sakhtiproject/static/js/main.1c45daca.js.map",
+    "main.ba644d4b.js.map": "/sakhtiproject/static/js/main.ba644d4b.js.map",
     "787.ee9aa98e.chunk.js.map": "/sakhtiproject/static/js/787.ee9aa98e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.439f5bf4.css",
-    "static/js/main.1c45daca.js"
+    "static/js/main.ba644d4b.js"
   ]
 }
